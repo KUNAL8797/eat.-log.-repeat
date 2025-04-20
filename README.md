@@ -26,7 +26,7 @@
 - 🌓 **Dark Mode Toggle** for better UX
 - 📱 **Fully Responsive UI** – works across devices
 - ⚙️ **Input validation, secure cookies, and sanitization** built-in
-- 🚀 **Deployed with CI/CD**: Vercel (Frontend) + Render (Backend)
+- 🚀 **CI/CD ready** with frontend & backend deploy configs (not live yet)
 
 ---
 
@@ -41,32 +41,37 @@
 
 ## 📸 Demo & Screenshots
 
-> Add your demo video link or screenshots here  
-> 📹 [Live Demo (if hosted)](https://yourliveprojectlink.com)  
-> ![App Screenshot](https://your-screenshot-link.com)
+> 🧪 This project is not deployed yet. You can run it locally using the steps below.  
+> 📷 Below are some screenshots of the app interface:
 
----<img src="./assets/Screenshot 2025-04-20 at 4.40.10 PM.png" alt="Dashboard" width="500"/>
-<img src="./assets/1.png" alt="Dashboard" width="500"/>
-<img src="./assets/2.png" alt="Dashboard" width="500"/>
+<p align="center">
+  <img src="./assets/Screenshot 2025-04-20 at 4.40.10 PM.png" alt="Dashboard Screenshot 1" width="500"/>
+  <br><br>
+  <img src="./assets/1.png" alt="Dashboard Screenshot 2" width="500"/>
+  <br><br>
+  <img src="./assets/2.png" alt="Dashboard Screenshot 3" width="500"/>
+</p>
+
+---
 
 ## 🔍 Tech Stack
 
-| Category | Tech |
-| ------- | ---- |
-| **Frontend** | React.js, HTML5, CSS3, Chart.js |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB 8 (via MongoDB Atlas) |
-| **Authentication** | JWT, bcrypt, Secure Cookies |
-| **Deployment** | Vercel (Frontend), Render (Backend) |
-| **Tools** | Postman, Git, GitHub |
+| Category         | Tech                                |
+|------------------|-------------------------------------|
+| **Frontend**     | React.js, HTML5, CSS3, Chart.js     |
+| **Backend**      | Node.js, Express.js                 |
+| **Database**     | MongoDB 8 (via MongoDB Atlas)       |
+| **Authentication** | JWT, bcrypt, Secure Cookies       |
+| **Deployment**   | Vercel (Frontend), Render (Backend) |
+| **Tools**        | Postman, Git, GitHub                |
 
 ---
 
 ## 📊 Dashboard Preview
 
-- **Interactive Pie Charts** for fat, carbs, protein, and calories
-- **Weekly/Monthly Stats View** (planned)
-- **Editable meal log list with timestamps**
+- ✅ Interactive **Pie Charts** for fat, carbs, protein, and calories
+- 🔄 Meal logs with timestamps, update/delete options
+- 📆 Weekly/Monthly Stats View (planned)
 
 ---
 
